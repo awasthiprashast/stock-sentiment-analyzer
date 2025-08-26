@@ -1,1 +1,1 @@
-"print('Hello Stock Sentiment Analyzer')" 
+print('Hello Stock Sentiment Analyzer')
